@@ -24,21 +24,14 @@
  # celery beat schedule file
  celerybeat-schedule
 
- # SageMath parsed files
- *.sage.py
-
- # Environments
- .env
- .venv
- env/
- venv/
- ENV/
- env.bak/
- venv.bak/
+ 
 
  # Spyder project settings
  .spyderproject
  .spyproject
+
+ #PyBuilder project
+ .spyderproject
 
  # Rope project settings
  .ropeproject
